@@ -1,0 +1,2 @@
+V0.1 (dec. 2020):
+	First release - Working sketch over serial
